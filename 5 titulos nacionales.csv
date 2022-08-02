@@ -1,0 +1,6 @@
+﻿id,title,type,description,release_year,age_certification,runtime,genres,production_countries,seasons,imdb_id,imdb_score,imdb_votes,tmdb_popularity,tmdb_score
+ts1000399,El año del Dragón,SHOW,NaN,2000,TV-MA,51,['drama'],['UY'],1,NaN,6.7,35678,0.6,NaN
+tm204618,25 Watts,MOVIE,NaN,2005,R,114,['drama'],['UY'],NaN,NaN,8.2,808582,40.965,8.179
+tm1354986,La Despedida,MOVIE,NaN,1999,R,90,['drama'],['UY'],NaN,NaN,7.7,107673,10.01,7.3
+tm1347384,El baño del papa,MOVIE,NaN,2003,PG,98,['drama'],['UY'],NaN,NaN,8.2,534486,15.461,7.811
+tm12456801,Whisky,MOVIE,NaN,2001,PG,92,['drama'],['UY'],NaN,NaN,7.7,72662,20.398,7.6
