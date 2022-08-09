@@ -1,0 +1,76 @@
+[Inicio]
+ 
+Buenas tardes. El lunes de la semana pasada recibimos su solicitud para analizar la información disponible de producciones audiovisuales, de manera de corroborar o descartar 3 hipótesis que
+pueden ayudar a la compañía a definir estrategias a futuro. 
+
+Básicamente se nos pidió que verificaramos la validez de 3 afirmaciones que están arraigadas en la cultura de la organización, y que condicionan algunas decisiones, pero son derivadas de la intuición y 
+no están respaldadas por datos. 
+
+[H1_0]
+Hipótesis 1
+
+En primer lugar, una idea bastante aceptada, es que desde hace algunos años se registra una explosión de la cantidad de producciones, tanto películas como series en la plataforma. 
+Para verificar esta hipótesis realizamos un conteo por año de las produccipones (películas y series).
+En la siguiente gráfica podemos ver la evolución de la cantidad de producciones anual. 
+
+[H1_1]
+Se ve claramente, a partir de 2010 - 2014, un aumento drástico en las producciones, sostenido a lo largo de los años subsiguientes.
+
+Acotamos un poco el período, filtrando a partir de 2010, 
+
+[H1_2]
+y podemos ver claramente el incremento de que hablábamos, con un crecimiento sostenido de la tasa de crecimiento de las 
+producciones a lo largo de 4 años, un período de cierto estancamiento, y finalmente una caída a partir del año 2020.
+
+Intentamos correlacionar estos puntos de inflexión en el crecimiento, con sucesos externos, y tenemos dos hitos que podrían estar determinando una relación causal:
+[H1_3]
+
+Por un lado, el despegue y auge a nivel mundial de las plataformas de streaming, que se dió en el período 2012 - 2015, coincide razonablemente con el máximo crecimiento de la cantidad de producciones. 
+Con los datos disponibles no podemos determinar una relación de causalidad, pero es razonable suponerla. 
+
+Por otro, el decilve marcado a partir de 2020 responde evidentemente a la disminución de las producciones producto de las restricciones impuestas durante la pandemia de covid 19. 
+
+
+Para ampliar el análisis, nos propusimos determinar si el aumento en las producciones respondía a uno de los dos tipos de producción (película o serie)
+
+[H1_4]
+pero los datos muestran que las tendencias de crecimiento de ambos tipos 
+tuvieron un comportamiento similar, no destacándose a priori una sobre otra.
+
+
+[H2_0]
+
+Virginia
+
+[H3_0]
+
+La tercera hipótesis que se nos pidió analizar refiere a la proporción de series vs películas. Existe una idea generalizada de que la proporción de series ha crecido a lo largo del tiempo. 
+Para verificarlo analizamos la evolución de la proporción de series sobre el total (suma de series y peliculas, que son las dos categorías en que clasificamos las producciones). 
+[H3_1]
+En esta primera gráfica es dificil visualizar una tendencia, ya que se nota una variabilidad alta entre años. 
+
+[H3_2]
+En una segunda aproximación, realizamos un filtrado a partir del año 2010, previo al inicio del período del crecimiento de las producciones. Vemos ahora sí una tendencia marcada de aumento en la 
+proporción de series sobre el total.
+
+Si finalmente proyectamos líneas de tendencia
+[H3_3]
+ambos períodos muestran una tendencia histórica de aumento de la proporción de series, pero mucho más marcada en los últimos 12 años. 
+No obstante la variabilidad señalada, en líneas generales podemos decir entonces que la proporción de series vs películas ha aunemtado con el tiempo, en particular en los últimos 12 años. 
+ 
+[Fin] 
+Agradecemos su atención, y quedamos a disposición para responder cualquier consulta al respecto.
+
+-- Posibles preguntas
+Posibilidades futuras:
+En esta instancia nos limitamos a responder las 3 hipótesis planteadas. No obstante, sabemos que los datos contienen otra información valiosa para futuros desarrollos. 
+Como continuación de este trabajo puede plantearse ahondar en la extracción de conclusiones que pueden aportar al desarrollo del negocio, como por ejemplo, aquellas relacionadas con la
+popularidad de una producción (entendida como la cantidad de personas que la marcan como visualizada en una plataforma). 
+Otra línea que puede plantearse es el cruzamiento con otros set de datos, para identificar las condiuciones necesarias para la creación de valor, etc.  
+
+
+
+
+
+
+
